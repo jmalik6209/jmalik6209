@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jmalik6209
+- 👀 I’m interested in programming, reading, writing, gaming, sports, and tech in general :)
+- 🌱 I’m currently learning a bunch of python in terms of fundamentals and automation
+- 💞️ I’m not looking to collaborate on anything at the moment, sorry :(
+- 📫 How to reach me - email: imalik6209@gmail.com
